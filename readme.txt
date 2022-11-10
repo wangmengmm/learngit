@@ -4,9 +4,4 @@ ccccsf
 fsfsc
 sfsfs
 dfsbgfgsh
-<<<<<<< HEAD
-Creating a new branch is quick & simple.
-
-=======
-edit
->>>>>>> feature1
+Creating a new branch
