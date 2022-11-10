@@ -4,3 +4,5 @@ ccccsf
 fsfsc
 sfsfs
 dfsbgfgsh
+Creating a new branch is quick & simple.
+
